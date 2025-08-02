@@ -13,7 +13,7 @@ Hospitals manage large volumes of data with missing, inconsistent, and invalid e
 
 ## Demo Screenshots
 ![Dept Load](./screenshots/dept_load.png)
-![Monthly Trend](./screenshots/monthly_trend.png)
+![Monthly Trend](./screenshots/MonthlyVisits.png)
 ![Excel Report](./screenshots/excel_dashboard.png)
 
 ## Excel Report Download
