@@ -17,7 +17,7 @@ Hospitals manage large volumes of data with missing, inconsistent, and invalid e
 ![Excel Report](summaryexcel.png)
 
 ## Excel Report Download
-[Download Hospital Data Report](./Hospital_Data_Report.xlsx)
+[Download Hospital Data Report](Hospital_Records.csv)
 
 ## How to Run
 1. Clone this repo
