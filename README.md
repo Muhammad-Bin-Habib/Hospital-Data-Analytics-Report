@@ -12,9 +12,9 @@ Hospitals manage large volumes of data with missing, inconsistent, and invalid e
 - Auto-generated Excel report with embedded charts
 
 ## Demo Screenshots
-![Dept Load](./screenshots/dept_load.png)
-![Monthly Trend](./screenshots/MonthlyVisits.png)
-![Excel Report](./screenshots/excel_dashboard.png)
+![Dept Load](dept_load.png)
+![Monthly Trend](MonthlyVisits.png)
+![Excel Report](summaryexcel.png)
 
 ## Excel Report Download
 [Download Hospital Data Report](./Hospital_Data_Report.xlsx)
